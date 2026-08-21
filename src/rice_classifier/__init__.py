@@ -1,2 +1,6 @@
-m«ëˆ§½©buªàºg§·õ,z»?~êÚ£ðèréžžÛ?
-‡^Çý´Û­<Û_Û{ü(®Oé®ˆÞrÛ?®'‚¶¢ÉZ²ÈŸ‰êÿ²·?®'rV¬²'âz¿âž+iÉKæÚ±î¸Ø[žé¢Šwâ•ê(º×â•æÛ­æ¤n·š‘éÜ¡×²Úâž§¶‰î™ÈZ­§-z¹bëu×œ¡×yÊzÈ§¦ëa…éiv+)•¬­†+&zËè¢ž›­Šznµø¥y×Ÿjém~ŠìµØ§¢‹­¦ëhºÚnµø¥y×Ÿjém~ŠìµÚ.
+"""Rice-grain classification package."""
+
+from .experiment import compare_models
+
+__all__ = ["compare_models"]
+
